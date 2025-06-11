@@ -203,7 +203,10 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+  flex-direction: row-reverse; // This reverses the menu order
+  justify-content: flex-end; 
+     #table;
 
     li {
       display: table-cell;
