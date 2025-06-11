@@ -12,11 +12,6 @@ I am a 4th year PhD candidate in Economics at HEC Paris, under the supervision o
 
 I am interested in topics at the intersection of macroeconomics and Finance. In particular, I am investigating firms' credit relationships with both bank and non banks lenders, and with a focus on the loan market
 
-<!-- A data-driven personal website
-====== --->
-
-<!-- Site-wide configuration
------- --->
 Work in Progress
 ------
 
@@ -25,3 +20,9 @@ Abstract
 
 **Title 2**
 Abstract
+
+<!-- A data-driven personal website
+====== --->
+
+<!-- Site-wide configuration
+------ --->
