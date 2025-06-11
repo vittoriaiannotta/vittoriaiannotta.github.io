@@ -1,6 +1,3 @@
-
-#Getting started
-#======
 Welcome! 
 
 I am a PhD candidate in Economics at HEC Paris, under the supervision of [Gaetano Gaballo](https://sites.google.com/view/ggaballo). 
@@ -19,3 +16,7 @@ Astract one
 
 **Title 2**
 Astract two
+
+
+#Getting started
+#======
