@@ -1,3 +1,7 @@
+Useful info: Config for personalising main page, like title and buttons
+navigation files for the menu 
+Pages - about for the main page
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
