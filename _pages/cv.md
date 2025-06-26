@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate in Economics, HEC Paris, 2026 (expected)
+* M.S. in Management Sciences, HEC Paris, 2023
+* M.S. in Economics, Bocconi University, 2020
+* B.S. in Economics, Bocconi University, 2017
 
-Work experience
+Visitings and Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Summer Graduate Program in Research
+  * European Central Bank
+  * Supervisor: David Marquez Ibanez
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Visiting st
+  * University of Pennsylvania
+  * Sponsor: Professor Guillermo Ordonez
 
 * Summer 2015: Research Assistant
   * GitHub University
