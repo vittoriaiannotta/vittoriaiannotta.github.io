@@ -23,9 +23,9 @@ repository               : "vittoriaiannotta/vittoriaiannotta.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : # ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # ""
   location         : # "Earth"
   employer         : "HEC Paris"
   uri              : # URL
