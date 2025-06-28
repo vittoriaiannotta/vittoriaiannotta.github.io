@@ -40,7 +40,7 @@ Microeconometric analysis of firm panel data (balance sheets, firm-bond links).
   
 Presentations 
 ======
-* The Wharton Scool, Finance (Internal presentation), Fall 2024. European Central Bank (Internal Seminar), Summer 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, Summer 2025. 
+* The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. 
 
 Teaching
 ======
