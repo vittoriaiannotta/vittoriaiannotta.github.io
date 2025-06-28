@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D candidate in Economics, HEC Paris, 2026 (expected)
-  * Fall 2024/25, Visiting Scholar, University of Pennsylvania - Economics. Sponsor: Guillermo Ordonez
   * Summer 2025, Summer Graduate Program, Research Department of the European Central Bank
+  * Fall 2024/25, Visiting Scholar, University of Pennsylvania - Economics. Sponsor: Guillermo Ordonez
 * M.S. in Management Sciences, HEC Paris, 2023
 * M.S. in Economics, Bocconi University, 2020
 * B.S. in Economics, Bocconi University, 2017
