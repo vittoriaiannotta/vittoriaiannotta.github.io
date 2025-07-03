@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)](./assets/Vittoria_CV.pdf)
+
 Education
 ======
 * Ph.D candidate in Economics, HEC Paris, 2026 (expected)
@@ -18,14 +20,16 @@ Education
 * M.S. in Economics, Bocconi University, 2020
 * B.S. in Economics, Bocconi University, 2017
 
+
 Job Market Paper
 ======
 
 I investigate the dispersion in borrowing costs between firms as symptomatic of market frictions. In particular, I focus on imperfect competition and asymmetric information as the sources of this dispersion, and ask to what ex tent they are reflected in lenders’ pricing strategies. Distinguishing between the two has very different implication on the assessment of market efficiency and on policy implications. In the context of the french bank loan market, I start by documenting rate dispersion among similar firms and credit types. I characterize the distribution of rate premia and show that is varies over time and responds to monetary policy shocks. I also show that rate premia contain forward information, namely there is correlation between paying a higher premia and having an ex-post higher default probability, which is consistent with both frictions. Then, I move to specifying the identification strategy, and the last step will be to quantify to which extent these frictions enter the pricing strategy of banks by calibrating a model to the data.
 
+
 Other work in progress
 ======
-
+TBA
 
 
 Work experience
@@ -37,29 +41,15 @@ Work experience
   * *Main Activities*: Data collection (Orbis, ECB series), macroeconometric analysis of time 
 series data (including monetary aggregates, bank lending volumes and interest rates), 
 Microeconometric analysis of firm panel data (balance sheets, firm-bond links).  
+
   
 Presentations 
 ======
 * The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. 
+
 
 Teaching
 ======
 * Lecturer, Introduction to Macroeconomics, HEC Paris (MSc in Economics and Finance). 2022, 2023
 * Teaching assistant for Prof. Michau, Advanced Macroeconomics: Business Cycle, Ecole Polytechnique. 2023, 2024, 2025
 * Teaching assistant for Prof Ai-Ting Goh, Macroeconomics (MBA). 2024, 2025
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
