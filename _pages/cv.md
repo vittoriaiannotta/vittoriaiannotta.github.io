@@ -20,7 +20,7 @@ Education
 * M.S. in Economics, Bocconi University, 2020
 * B.S. in Economics, Bocconi University, 2017
 
-
+<br><br>
 Job Market Paper
 ======
 
