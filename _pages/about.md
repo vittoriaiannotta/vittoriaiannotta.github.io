@@ -30,8 +30,14 @@ tent they are reflected in lenders’ pricing strategies. Distinguishing between
  strategy, and the last step will be to quantify to which extent these frictions enter the pricing strategy of banks
  by calibrating a model to the data.
 
-**Title 2**
-Abstract
+**Banks, Peer-to-Peer lending platforms and the transmission of monetary policy: loan-level
+evidence from France,**
+ with *Mattia Girotti* (Banque de France) and *Andrea Polo* (LUISS,
+Rome)
+Business lending practices in Europe are quickly evolving as more digital and AI platforms
+enter the corporate credit market, traditionally dominated by banks. Using loan level data from
+France, we analyse the different lending behaviour of banks and peer to peer platforms to firms
+in response to high-frequency monetary policy shocks.
 
 <!-- A data-driven personal website
 ====== --->
