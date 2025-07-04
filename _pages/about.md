@@ -14,10 +14,10 @@ I am interested in topics at the intersection of macroeconomics and Finance. In 
 
 I was a visiting student at UPenn in fall 2024, and a summer research graduate program participant at the European Central Bank in summer 2025.
 
-Work in Progress
+Job Market Paper
 ------
 
-**Imperfect competition and asymmetric information in the Banking Market**
+**Quantifying the role of imperfect competition and asymmetric information in bank pricing: evidence from loan rate dispersion**
 
 I investigate the dispersion in borrowing costs between firms as symptomatic of market frictions. In particular, I
  focus on imperfect competition and asymmetric information as the sources of this dispersion, and ask to what ex
@@ -30,6 +30,8 @@ tent they are reflected in lenders’ pricing strategies. Distinguishing between
  strategy, and the last step will be to quantify to which extent these frictions enter the pricing strategy of banks
  by calibrating a model to the data.
 
+Other Work in Progress
+------
 **Banks, Peer-to-Peer lending platforms and the transmission of monetary policy: loan-level
 evidence from France,**
  with *Mattia Girotti* (Banque de France) and *Andrea Polo* (LUISS,
