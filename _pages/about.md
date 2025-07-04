@@ -13,6 +13,7 @@ I am a 4th year PhD candidate in Economics at HEC Paris, under the supervision o
 I am interested in topics at the intersection of macroeconomics and Finance. In particular, I am investigating firms' credit relationships with both bank and non banks lenders, and with a focus on the loan market.
 
 I was a visiting student at UPenn in fall 2024, and a summer research graduate program participant at the European Central Bank in summer 2025.
+<br><br>
 
 Job Market Paper
 ------
@@ -29,6 +30,7 @@ tent they are reflected in lenders’ pricing strategies. Distinguishing between
  higher default probability, which is consistent with both frictions. Then, I move to specifying the identification
  strategy, and the last step will be to quantify to which extent these frictions enter the pricing strategy of banks
  by calibrating a model to the data.
+<br><br>
 
 Other Work in Progress
 ------
@@ -40,6 +42,7 @@ Business lending practices in Europe are quickly evolving as more digital and AI
 enter the corporate credit market, traditionally dominated by banks. Using loan level data from
 France, we analyse the different lending behaviour of banks and peer to peer platforms to firms
 in response to high-frequency monetary policy shocks.
+<br><br>
 
 <!-- A data-driven personal website
 ====== --->
