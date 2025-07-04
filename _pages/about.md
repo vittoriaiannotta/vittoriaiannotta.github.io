@@ -17,7 +17,6 @@ I was a visiting student at UPenn in fall 2024, and a summer research graduate p
 
 Job Market Paper
 ------
-
 **Quantifying the role of imperfect competition and asymmetric information in bank pricing: evidence from loan rate dispersion**
 
 I investigate the dispersion in borrowing costs between firms as symptomatic of market frictions. In particular, I
