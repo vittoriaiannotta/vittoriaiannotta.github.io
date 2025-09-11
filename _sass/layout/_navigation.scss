@@ -176,7 +176,7 @@
   position: relative;
   min-width: 250px;
   width: 100%; 
-  background: var(--global-bg-color);
+  background: rgba(136, 0, 21, 0.8) !important; /* Bordeaux with some transparency  background: var(--global-bg-color); */
   display: flex;
   justify-content: flex-end; 
   align-items: center; 
