@@ -46,3 +46,12 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
+
+.masthead {
+  background-color: var(--global-masthead-bg-color) !important;
+  border-bottom: 1px solid var(--global-dark-border-color);
+}
+
+.masthead__menu-item a {
+  color: var(--global-masthead-link-color) !important;
+}
