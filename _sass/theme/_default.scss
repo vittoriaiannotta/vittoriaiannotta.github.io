@@ -30,6 +30,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$gray};           /* muted wine */
     --global-bg-color                   : #f8f4f6;               /* keep white */
+    --global-masthead-bg-color          : #{$dark-gray};
     --global-footer-bg-color            : #f8f4f6;            /* pale rose-gray */
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #a36b7a;
@@ -39,8 +40,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #a83256;            /* wine accent */
     --global-link-color-hover           : mix(#000, #a83256, 25%);
     --global-link-color-visited         : mix(#fff, #a83256, 25%);  
-    --global-masthead-link-color        : #{$dark-gray};      /* plum navbar text */
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-masthead-link-color        : #fff;
+    --global-masthead-link-color-hover: #{$light-gray};    
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
