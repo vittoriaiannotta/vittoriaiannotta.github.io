@@ -176,7 +176,8 @@
   position: relative;
   min-width: 250px;
   width: 100%; 
-  background: var(--global-bg-color); 
+  /* CHANGE: Use the masthead background variable here */
+  background: var(--global-masthead-bg-color); 
   display: flex;
   justify-content: flex-end; 
   align-items: center; 
@@ -185,14 +186,16 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: var(--global-masthead-link-color);
+    /* CHANGE: Ensure links are white/rose */
+    color: var(--global-masthead-link-color) !important;
     text-decoration: none;
 
     &:hover {
-      color: var(--global-masthead-link-color-hover);
+      color: var(--global-masthead-link-color-hover) !important;
     }
   }
 
+  /* This is the 'More' button for small screens */
   button {
     position: absolute;
     height: 2.5rem;
@@ -200,7 +203,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: var(--global-base-color);
+    /* CHANGE: Make button blend with the wine background */
+    background-color: var(--global-dark-border-color); 
     color: #fff;
     cursor: pointer;
     z-index: 100;
