@@ -252,7 +252,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: var(--global-border-color);
+        background: var(--global-masthead-bg-color);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -356,7 +356,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: var(--global-base-color);
+    background: var(--global-masthead-bg-color);
     border-radius: $border-radius;
 
     &:hover {
