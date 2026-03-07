@@ -1,10 +1,11 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD (Wine Theme Optimized)
    ========================================================================== */
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  /* Use the dark wine variable you defined in :root */
+  background: var(--global-masthead-bg-color); 
   height: fit-content;
   top: 0;
   width: 100%;
@@ -15,12 +16,13 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  /* The thin line at the bottom of the navigation bar */
   &::after {
     content: "";
     position: absolute;
     bottom: 0;
     height: 1px;
-    background: var(--global-border-color);
+    background: var(--global-dark-border-color); 
     width: 100%;
   }
 
@@ -38,14 +40,19 @@
       z-index: 10;
     }
 
+    /* Force links in the masthead to use your light/white variable */
     a {
       text-decoration: none;
+      color: var(--global-masthead-link-color) !important;
+
+      &:hover {
+        color: var(--global-masthead-link-color-hover) !important;
+      }
     }
   }
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -55,7 +62,8 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  /* Match the background to the bar so there are no "light boxes" around text */
+  background-color: var(--global-masthead-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
@@ -63,5 +71,16 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    /* This is usually your Name/Site Title */
+    color: var(--global-masthead-link-color) !important; 
+  }
+}
+
+/* Ensure the mobile 'hamburger' icon is also visible on dark background */
+.navicon {
+  background: var(--global-masthead-link-color) !important;
+  
+  &:before, &:after {
+    background: var(--global-masthead-link-color) !important;
   }
 }
