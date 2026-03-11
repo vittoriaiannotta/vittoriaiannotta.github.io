@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Welcome! 
-I am a 5th year PhD candidate in Economics at HEC Paris, under the supervision of [Gaetano Gaballo](https://sites.google.com/view/ggaballo).
+I am a **5th year PhD candidate in Economics at HEC Paris**, under the supervision of [Gaetano Gaballo](https://sites.google.com/view/ggaballo).
 
-I am interested in topics at the intersection of macroeconomics and Finance. In particular, I am investigating firms' credit relationships with both bank and non banks lenders, and with a focus on the loan market.
+I am interested in topics at the intersection of **Macroeconomics and Finance**. In particular, I am investigating firms' credit relationships with both bank and non banks lenders, and with a focus on the loan market.
 
 I was a visiting student at UPenn in fall 2024, and a summer research graduate program participant at the European Central Bank in summer 2025.
 <br><br>
