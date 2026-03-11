@@ -29,7 +29,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$gray};           /* muted wine */
-    --global-bg-color                   : #f8f4f6;               /* keep white */
+    --global-bg-color                   : #ffffff;               /* keep white #f8f4f6; */
     --global-masthead-bg-color          : #{$dark-gray};
     --global-footer-bg-color            : #f8f4f6;            /* pale rose-gray */
     --global-border-color               : #{$dark-gray};
