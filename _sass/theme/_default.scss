@@ -7,7 +7,7 @@ $gray                       : #8b2e45; /* muted wine */
 $dark-gray                  : mix(#000, $gray, 40%); /* deeper wine */
 $darker-gray                : mix(#000, $gray, 60%); /* almost plum */
 $light-gray                 : #b37a85; /* dusty rose */
-$lighter-gray               : mix(#fff, $gray, 90%); /* pale rose-gray */
+$lighter-gray               : #ffffff;; /* pale rose-gray mix(#fff, $gray, 90%) */
 
 /* Accent colors */
 $danger-color               : #c0392b; /* strong red */
