@@ -26,7 +26,8 @@ Education
 
 Job Market Paper
 ======
-I investigate the dispersion in borrowing costs between firms as symptomatic of market frictions. In particular, I focus on imperfect competition and asymmetric information as the sources of this dispersion, and ask to what ex tent they are reflected in lenders’ pricing strategies. Distinguishing between the two has very different implication on the assessment of market efficiency and on policy implications. In the context of the french bank loan market, I start by documenting rate dispersion among similar firms and credit types. I characterize the distribution of rate premia and show that is varies over time and responds to monetary policy shocks. I also show that rate premia contain forward information, namely there is correlation between paying a higher premia and having an ex-post higher default probability, which is consistent with both frictions. Then, I move to specifying the identification strategy, and the last step will be to quantify to which extent these frictions enter the pricing strategy of banks by calibrating a model to the data.
+**Interest rate dispersion in credit markets**
+Using French loan-level data, we document substantial dispersion in interest rates among otherwise similar firms, even when they borrow from the same bank. We further show that unexplained rate residuals correlate with surprises in firms' future credit risk outcomes, in line with an information channel in loan pricing. The central question is the extent to which observed dispersion reflects true differences in borrower risk versus the extra-value that banks manage to extract. To address this, we develop and calibrate a model of loan pricing with imperfect competition and costly information acquisition by banks.  Dispersion can be the result of costly banks' screening, where the acquisition of negative signals on firms translates into higher rate offers; or the optimal bank strategy in a non-competitive environment, in which a deviation from the law of one price is possible and banks can extract firms' surplus. The calibrated results suggest that imperfect competition is the prevailing force driving observed dispersion. 
 
 <br><br>
 
@@ -55,9 +56,10 @@ Microeconometric analysis of firm panel data (balance sheets, firm-bond links).
 
 <br><br>
 
-Presentations 
+Presentations, Awards
 ======
 * The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. ICBFS Conference Piacenza, Sep 2025. University of Naples Federico II PhD workshop, Sep 2025. Université Paris Dauphine - PSL PhD Workshop, Jun 2026.
+* **Awards**: 2026 Lamfalussy Research Fellowship. 
 
 <br><br>
 
