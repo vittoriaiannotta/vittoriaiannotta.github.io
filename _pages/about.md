@@ -9,6 +9,7 @@ redirect_from:
 
 Welcome! 
 I am a **6th year PhD candidate in Economics at HEC Paris**, under the supervision of [Gaetano Gaballo](https://sites.google.com/view/ggaballo). I will be on the 2026–2027 academic job market.
+
 My research lies at the intersection of **Macroeconomics and Finance**. In particular, I am investigating firms' credit relationships with both bank and non-banks lenders, focusing on the role of information acquisition by lenders and imperfect competition. 
 
 I was a visiting student at UPenn in fall 2024, and I participated in the European Central Bank's Graduate Research Programme in summer 2025. My Job Market Paper was awarded the **2026 Lamfalussy Research Fellowship**. 
