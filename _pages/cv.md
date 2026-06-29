@@ -57,7 +57,7 @@ Microeconometric analysis of firm panel data (balance sheets, firm-bond links).
 
 Presentations 
 ======
-* The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. 
+* The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. ICBFS Conference Piacenza, Sep 2025. University of Naples Federico II PhD workshop, Sep 2025. Université Paris Dauphine - PSL PhD Workshop, Jun 2026.
 
 <br><br>
 
@@ -66,3 +66,4 @@ Teaching
 * Lecturer, Introduction to Macroeconomics, HEC Paris (MSc in Economics and Finance). 2022, 2023
 * Teaching assistant for Prof. Michau, Advanced Macroeconomics: Business Cycle, Ecole Polytechnique. 2023, 2024, 2025
 * Teaching assistant for Prof Ai-Ting Goh, Macroeconomics (MBA). 2024, 2025
+* Instructor, Game Theory for Negotiation (Professional Training), delivered at the Council of the European Union. (ESSEC IRENE France) 2026
