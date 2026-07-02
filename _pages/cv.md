@@ -24,6 +24,35 @@ Education
 
 <br><br>
 
+Presentations & Awards
+======
+* The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. ICBFS Conference Piacenza, Sep 2025. University of Naples Federico II PhD workshop, Sep 2025. Université Paris Dauphine - PSL PhD Workshop, Jun 2026.
+* **Awards**: 2026 Lamfalussy Research Fellowship. 
+
+<br><br>
+
+Work experience
+======
+
+* EUROPEAN CENTRAL BANK, Apr 2020 - Jun 2021
+  * Traineeship (1 year) + Research Analyst (3 months)   
+  * *Area*: Monetary Analysis  
+  * *Main Activities*: Data collection (Orbis, ECB series), macroeconometric analysis of time 
+series data (including monetary aggregates, bank lending volumes and interest rates), 
+Microeconometric analysis of firm panel data (balance sheets, firm-bond links).  
+
+<br><br>
+
+
+Teaching
+======
+* *Lecturer*, Introduction to Macroeconomics, **HEC Paris** (MSc in Economics and Finance). 2022, 2023
+* *Teaching assistant* for Prof. Michau, Advanced Macroeconomics: Business Cycle, **Ecole Polytechnique**. 2023, 2024, 2025
+* *Teaching assistant* for Prof Ai-Ting Goh, Macroeconomics, **HEC Paris** (MBA). 2024, 2025
+* *Instructor*, Game Theory for Negotiation (Professional Training), delivered at the Council of the European Union. (**ESSEC IRENE France**) 2026
+
+<br><br>
+
 Job Market Paper
 ======
 **Quantifying the role of imperfect competition and asymmetric information in bank pricing: evidence from loan rate dispersion** [📄 (Draft)](https://vittoriaiannotta.github.io/files/draft_short.pdf)
@@ -42,28 +71,3 @@ Business lending practices in Europe are quickly evolving as more digital and AI
 
 <br><br>
 
-Work experience
-======
-
-* EUROPEAN CENTRAL BANK, Apr 2020 - Jun 2021
-  * Traineeship (1 year) + Research Analyst (3 months)   
-  * *Area*: Monetary Analysis  
-  * *Main Activities*: Data collection (Orbis, ECB series), macroeconometric analysis of time 
-series data (including monetary aggregates, bank lending volumes and interest rates), 
-Microeconometric analysis of firm panel data (balance sheets, firm-bond links).  
-
-<br><br>
-
-Presentations & Awards
-======
-* The Wharton Scool, Finance (Internal presentation), Fall 2024. Paris Macro Workshop, May 2025. European Central Bank (Internal Seminar), May 2025. Economics Letters Summer School in Macro-Finance at Bocconi SDA, July 2025. ICBFS Conference Piacenza, Sep 2025. University of Naples Federico II PhD workshop, Sep 2025. Université Paris Dauphine - PSL PhD Workshop, Jun 2026.
-* **Awards**: 2026 Lamfalussy Research Fellowship. 
-
-<br><br>
-
-Teaching
-======
-* *Lecturer*, Introduction to Macroeconomics, **HEC Paris** (MSc in Economics and Finance). 2022, 2023
-* *Teaching assistant* for Prof. Michau, Advanced Macroeconomics: Business Cycle, **Ecole Polytechnique**. 2023, 2024, 2025
-* *Teaching assistant* for Prof Ai-Ting Goh, Macroeconomics, **HEC Paris** (MBA). 2024, 2025
-* *Instructor*, Game Theory for Negotiation (Professional Training), delivered at the Council of the European Union. (**ESSEC IRENE France**) 2026
