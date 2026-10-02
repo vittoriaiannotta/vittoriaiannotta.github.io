@@ -6,11 +6,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap");
 
 :root {
-  --bg: #f5f5f2;
+  --bg: #ffffff;
   --surface: #ffffff;
   --text: #1a1a1a;
   --text-light: #5a5a5a;
-  --border: #e3e2dd;
+  --border: #e5e5e5;
 
   --amber: #e8a33d;
   --coral: #e2542f;
@@ -135,7 +135,7 @@ h1, h2, h3 {
 
 /* ---------- Hero ---------- */
 .hero {
-  padding: 3rem 0 5rem;
+  padding: 1rem 0 5rem;
 }
 
 .hero .wrapper {
@@ -212,6 +212,17 @@ h1, h2, h3 {
   color: var(--amber);
 }
 
+/* link with no underline; it still turns amber on hover */
+.bio a.link-plain {
+  text-decoration: none;
+}
+
+.bio .underline {
+  text-decoration: underline;
+  text-decoration-color: var(--amber);
+  text-underline-offset: 3px;
+}
+
 /* ---------- Pill / circle buttons ---------- */
 .cta-row {
   display: flex;
@@ -286,6 +297,13 @@ h1, h2, h3 {
   margin-bottom: 2.5rem;
 }
 
+/* Heading with a rule under it, to separate it from the section above */
+.section-title--ruled {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+
 .fade-in {
   opacity: 0;
   transform: translateY(16px);
@@ -302,7 +320,16 @@ h1, h2, h3 {
   display: flex;
   flex-direction: column;
   gap: 6rem;
+}
+
+/* only space the list from a heading when there is one above it */
+.section-title + .projects-list {
   margin-top: 3rem;
+}
+
+/* the first section opens the page: no heading, so no deep top padding */
+main > .section:first-child {
+  padding-top: 1rem;
 }
 
 .project-row {
@@ -325,10 +352,23 @@ h1, h2, h3 {
 .project-row__text p {
   color: var(--text-light);
   margin: 0 0 1rem;
+  font-size: 0.92rem;
+  line-height: 1.55;
 }
 
 .project-row__authors {
   font-style: italic;
+}
+
+/* "JMP — draft / slides" line, between the title and the abstract */
+.project-row__meta {
+  margin: 0 0 1.1rem;
+}
+
+.project-row__meta .meta-label {
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--text);
 }
 
 .project-row__text a {
@@ -344,8 +384,9 @@ h1, h2, h3 {
 }
 
 .project-row__image {
-  flex: 2 1 0;
+  flex: 1.3 1 0;
   min-width: 0;
+  align-self: center;   /* centre the figure against the text column */
 }
 
 .project-row__image img {
@@ -540,6 +581,11 @@ h1, h2, h3 {
     flex-direction: column;
     align-items: stretch;
     gap: 1.5rem;
+  }
+
+  /* stacked: the cross axis is horizontal, so centring would shrink the image */
+  .project-row__image {
+    align-self: stretch;
   }
 
   .projects-list {
