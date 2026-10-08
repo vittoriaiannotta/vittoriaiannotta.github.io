@@ -195,6 +195,7 @@ h1, h2, h3 {
   color: var(--text-light);
   max-width: 46em;
   margin: 0 0 0.9rem;
+  text-align: justify;
 }
 
 .bio strong {
@@ -354,6 +355,7 @@ main > .section:first-child {
   margin: 0 0 1rem;
   font-size: 0.92rem;
   line-height: 1.55;
+  text-align: justify;
 }
 
 .project-row__authors {
@@ -369,6 +371,11 @@ main > .section:first-child {
   font-family: var(--font-body);
   font-weight: 700;
   color: var(--text);
+}
+
+.project-row__text p.project-row__meta,
+.project-row__text p.project-row__authors {
+  text-align: left;
 }
 
 .project-row__text a {
@@ -610,6 +617,11 @@ main > .section:first-child {
 }
 
 @media (max-width: 480px) {
+  .bio p,
+  .project-row__text p {
+    text-align: left;
+  }
+
   .wrapper {
     padding: 0 1.25rem;
   }
