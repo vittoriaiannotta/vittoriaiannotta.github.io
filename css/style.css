@@ -3,7 +3,7 @@
    One stylesheet: fonts, colors, spacing, buttons, animation, responsiveness
    ========================================================================== */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Inter:wght@400;500;600&display=swap");
 
 :root {
   --bg: #ffffff;
@@ -378,6 +378,20 @@ main > .section:first-child {
   text-align: left;
 }
 
+/* "Presented at: ..." line, below the abstract */
+.project-row__text p.project-row__venues {
+  margin: 1.4rem 0 0;
+  text-align: left;
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: var(--text-light);
+}
+
+.project-row__venues .venues-label {
+  font-weight: 700;
+  color: var(--text);
+}
+
 .project-row__text a {
   color: var(--text);
   font-weight: 600;
@@ -476,6 +490,11 @@ main > .section:first-child {
 }
 
 .cv-section--teaching .cv-entry__content h3 {
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cv-section--teaching .cv-entry__content h3 em {
   font-weight: 400;
   font-style: italic;
 }
@@ -488,8 +507,43 @@ main > .section:first-child {
   font-weight: 400;
 }
 
+.cv-section--presentations .cv-scheduled {
+  color: var(--text-light);
+  font-size: 0.85em;
+  font-style: italic;
+}
+
 .cv-entry__content p strong {
   color: var(--text);
+}
+
+.cv-sublist {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.1rem;
+  color: var(--text-light);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.cv-sublist li {
+  margin-bottom: 0.25rem;
+}
+
+.cv-sublist li:last-child {
+  margin-bottom: 0;
+}
+
+.cv-sublist strong {
+  color: var(--text);
+}
+
+.cv-entry__content h3.cv-degree {
+  font-weight: 400;
+}
+
+.cv-entry__content h3.cv-degree strong {
+  font-weight: 700;
 }
 
 .cv-date {
