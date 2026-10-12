@@ -517,17 +517,21 @@ main > .section:first-child {
   color: var(--text);
 }
 
+.cv-sublist,
+.cv-entry__content p.cv-advisor {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
 .cv-sublist {
   list-style: disc;
   margin: 0;
   padding-left: 1.1rem;
   color: var(--text-light);
-  font-size: 0.88rem;
-  line-height: 1.5;
 }
 
 .cv-sublist li {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.85rem;
 }
 
 .cv-sublist li:last-child {
@@ -536,6 +540,21 @@ main > .section:first-child {
 
 .cv-sublist strong {
   color: var(--text);
+}
+
+.cv-sublist .cv-subnote {
+  display: block;
+}
+
+.cv-entry__content p.cv-advisor {
+  margin-bottom: 0.6rem;
+}
+
+.cv-entry__content p.cv-advisor a {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
 }
 
 .cv-entry__content h3.cv-degree {
