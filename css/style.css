@@ -557,6 +557,32 @@ main > .section:first-child {
   text-underline-offset: 2px;
 }
 
+/* References: two columns, as in the CV. The padding lines the first column up
+   with .cv-entry__content, i.e. the 150px date column plus its 2rem gap. */
+.cv-refs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem 2.5rem;
+  padding-left: calc(150px + 2rem);
+}
+
+.cv-ref h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.cv-ref p {
+  color: var(--text-light);
+  margin: 0;
+}
+
+.cv-ref__tag {
+  color: var(--text-light);
+  font-size: 0.85em;
+  font-weight: 400;
+}
+
 .cv-entry__content h3.cv-degree {
   font-weight: 400;
 }
@@ -686,6 +712,11 @@ main > .section:first-child {
   .cv-entry {
     grid-template-columns: 1fr;
     gap: 0.35rem;
+  }
+
+  .cv-refs {
+    grid-template-columns: 1fr;
+    padding-left: 0;
   }
 }
 
