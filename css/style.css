@@ -350,6 +350,17 @@ main > .section:first-child {
   margin-bottom: 1rem;
 }
 
+/* Work in Progress: title-only rows, smaller and close together */
+/* two classes, so the mobile .projects-list gap does not override it */
+.projects-list.projects-list--compact {
+  gap: 0.9rem;
+}
+
+.projects-list--compact .project-row__text h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
 .project-row__text p {
   color: var(--text-light);
   margin: 0 0 1rem;
