@@ -350,14 +350,18 @@ main > .section:first-child {
   margin-bottom: 1rem;
 }
 
-/* Work in Progress: title-only rows, smaller and close together */
+/* Work in Progress: smaller titles, rows closer together */
 /* two classes, so the mobile .projects-list gap does not override it */
 .projects-list.projects-list--compact {
-  gap: 0.9rem;
+  gap: 2rem;
 }
 
 .projects-list--compact .project-row__text h2 {
   font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.projects-list--compact .project-row__text p:last-child {
   margin-bottom: 0;
 }
 
