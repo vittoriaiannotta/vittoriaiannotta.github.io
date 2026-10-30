@@ -565,7 +565,8 @@ main > .section:first-child {
   margin-bottom: 0.6rem;
 }
 
-.cv-entry__content p.cv-advisor a {
+.cv-entry__content p.cv-advisor a,
+.cv-entry__content h3 a {
   color: var(--text);
   text-decoration: underline;
   text-decoration-thickness: 1px;
